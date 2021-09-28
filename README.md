@@ -1,6 +1,7 @@
 # Word-or-Name-Generator
 Makes new words, New Slang, Baby names, Brand Names, Business Names, Names
 Stage Names, Book titles, and so on.
+Short Username Generator
 SO I couldn't get the website part to work right because I don't really know how to do it,
 but the python code does run properly in the command line to make words. I also added the profanity/slur filter to it.
 You have to install better profanity https://pypi.org/project/better-profanity/
